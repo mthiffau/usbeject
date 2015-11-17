@@ -91,7 +91,7 @@ namespace UsbEject.Library
         /// <summary>
         /// Gets the device's instance handle.
         /// </summary>
-        public int InstanceHandle
+        public uint InstanceHandle
         {
             get
             {
