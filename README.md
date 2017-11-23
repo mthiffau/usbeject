@@ -1,5 +1,5 @@
 # usbeject
-Working C# code to safely eject removable storage (Windows 8.1, compiled 32-bit)
+C# code to safely eject removable storage (Windows 8.1, compiled 32-bit)
 
 This is a class library of code stolen from a codeprojects page, and modified to fix a bug where it wasn't ejecting the drive it
 claimed to be ejecting. All the copyright headers in it are from the original author. I'm providing this code here since aparently
