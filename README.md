@@ -1,3 +1,7 @@
+[ WARNING: I have received several reports of this not working for people. I'm leaving this up in case it's a helpful starting point even if it is not working as-is. I seem to recall needing a paid teir license for Visual Studio in order to have support for these system APIs, and I no longer have access to that. I also haven't written any C# in about 2.5 years (after having only written in it for a few weeks), so I'm probably not the formost expert on how to go about fixing this for your own particular Windows version or hardware architecture. 
+
+Since a bunch of people seem to be landing here and trying this code despite the reported issues, I'm happy to accept pull requests if the changes seem legit and are legitimately documented (as I cannot test the changes myself), so that future "yous" might find something working (or closer to it). Of course, one of you could be a total star and write some tests and some git push hooks to run the tests as a presbumit, so that it's easier to tell when future patches are good :P I'm half kidding, but you'll get credit in the README if you do. ]
+
 # usbeject
 C# code to safely eject removable storage (Windows 8.1, compiled 32-bit)
 
